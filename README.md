@@ -1,28 +1,34 @@
-👋 Greetings! I'm Lokesh Chandak, a 2023 Computer Science graduate deeply passionate about Python and JavaScript wizardry.
+# 👋 Hey there, I'm Lokesh Chandak!
 
-🚀 My tech journey is a vibrant tapestry of crafting applications and harnessing the power of Python and JavaScript. I've spearheaded diverse projects, showcasing my prowess with React Native, Svelte, and more.
+I'm a recent Computer Science graduate with a deep passion for Python and JavaScript. My tech journey is a colorful mix of crafting applications and harnessing the power of Python and JavaScript.
 
-💼 I've steered a Mental Health Support Application, "Helpout," where I blended React Native, and cutting-edge ai technologies, prioritizing data privacy and user experience.
+## 🚀 Project Highlights
 
-🛠️ Equipped with solid skills in Python and JavaScript, I am proficient in backend and frontend web development, automation, web scraping, and data visualization. My toolset includes Flask, ExpressJS, ReactJs, Svelte, and more.
+- **Helpout - Mental Health Support App:** I led the development of an Android/iOS app that combines React Native, AI technologies, and a privacy-centric approach. [Check it out](Link to Helpout Project)
 
-🎯 Let's collaborate to elevate your projects. Whether it's building a dynamic web application, a feature-rich mobile app, or automating tedious tasks, I'm here to bring innovation and efficiency.
+- **Claim Portal for IEEE Bombay Section:** As part of the IEEE Bombay Section Web and Social Media Team, I contributed to both frontend and backend development. [Explore it](https://claims.ieeebombay.org)
 
-🌟 Skills Snapshot:
+## 🛠️ Tech Toolbox
 
-    Backend Web Development: Flask (Python), ExpressJs (NodeJs)
-    Frontend Web Development: Svelte, ReactJs, MUI, Bootstrap, Tailwind, HTML, CSS
-    Android/iOS App Development: React Native, Expo
-    Automation/RPA: Selenium, Robot Framework, PyAutoGui
-    Web scraping: Selenium, Scrapy, BeautifulSoup4
-    Data Visualization and Analysis: D3js, Numpy, Pandas, Matplotlib, Jupyter Notebooks
-    Databases: MongoDB, MySQL, PostgreSQL
-    Debugging and Troubleshooting
+I'm proficient in a wide range of technologies and frameworks:
 
-🎓 Education: Bachelor of Engineering - Computer Science and Engineering (CGPA: 7.49)
+- **Backend Web Development:** Flask (Python), ExpressJs (NodeJs)
+- **Frontend Web Development:** Svelte, ReactJs, MUI, Bootstrap, Tailwind, HTML, CSS
+- **Android/iOS App Development:** React Native, Expo
+- **Automation/RPA:** Selenium, Robot Framework, PyAutoGui
+- **Web scraping:** Selenium, Scrapy, BeautifulSoup4
+- **Data Visualization and Analysis:** D3js, Numpy, Pandas, Matplotlib, Jupyter Notebooks
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **Debugging and Troubleshooting**
 
-🌐 Portfolio: inDev, coming soon-ish
+## 🎓 Education
 
-🗣️ Fluent in English, Hindi, and Marathi, I'm here to transform your ideas into stellar tech solutions.
+- **Bachelor of Engineering - Computer Science and Engineering**
+  - CGPA: 7.49
+  - Sant Gadge Baba Amravati University, 2023
+
+## 🗣️ Let's Connect!
+
+I'm fluent in English, Hindi, and Marathi. Let's collaborate to turn your tech ideas into reality.
 
 Looking forward to teaming up and creating tech magic together! ✨
