@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Lokesh Chandak!
 
-I'm a recent Computer Science graduate with a deep passion for Python and JavaScript. My tech journey is a colorful mix of crafting applications and harnessing the power of Python and JavaScript.
+I'm a recent Computer Science graduate with a deep passion for Python and JavaScript. What sets me apart is my unwavering thirst for knowledge and the ability to adapt swiftly, much like a Phoenix rising from the ashes of a coding bug. My experiences have shaped me into a problem solver, a collaborator, and a creative thinker.
 
 ## 🚀 Project Highlights
 
